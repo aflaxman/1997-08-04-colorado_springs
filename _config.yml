@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.io/1997-08-04-colorado_springs"
+workshop_repo   : "http://github.com/aflaxman/1997-08-04-colorado_springs"
 workshop_site   : "http://aflaxman.github.io/1997-08-04-colorado_springs"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
